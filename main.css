@@ -1,0 +1,52 @@
+.title {
+	color: red;
+	font-family:Vivaldi, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:orange;
+}
+
+.subtitle{
+	font-family:Cursive;
+	height: 40px;
+	width: 720;
+	text-align: center;
+	margin-top: 10px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.main{
+	font-family: "Arial";
+	height: 500px;
+	text-align: center;
+	margin-left: auto;
+	margin-right; auto;
+}
+
+.footer{
+	text-align:center;
+	margin-right: auto;
+	margin-left:auto;
+	position: relative;
+	margin-top: 100px;
+}
+
+body{
+	background: url('debut_dark.png');
+}
+
+.navigation {
+	font-family: "Aial";
+	text-align:center;
+	font-size:30px;
+	height: 50px;
+	width: 800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	text-decoration:none;
+	color:#cc0000;
+}
